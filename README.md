@@ -22,7 +22,7 @@
 Besides conditions listed on our [homepage](http://amazingapps.org/#two), these apps should also
 1. not apply unnecessary privileges. For example, a simple QRCode scanner should not require your position.
 2. No notable memory leak.
-3. Background-free, or an option to make them background-free.
+3. Background-free, or an option to make them background-free if necessary on design.
 4. not require root privelege.
 5. Acceptable ads are only loaded when connected to Wi-Fi.
 
