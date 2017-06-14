@@ -16,3 +16,7 @@
 1. 存储空间释放类、CPU/RAM 释放类应用。
 1. root 权限获取应用。
 1. 网盘应用。
+
+### 授权协议
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /> 除非特别声明，否则组织中所有项目协议均为：<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>
