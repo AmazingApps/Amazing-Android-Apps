@@ -1,3 +1,3 @@
 ## Efficiency
 
-Significantly improve working efficiency
+Operate your Android much more efficiently.
