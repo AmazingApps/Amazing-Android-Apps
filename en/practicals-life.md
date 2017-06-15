@@ -1,3 +1,7 @@
 ## Practicals
 
 Solutions to life troubles can be such simple ever.
+
+---
+
+Geometric Weather - A weather app light, fast, neat yet powerful, following Material Design.  ![](../assets/free.png) [![](../assets/open-source-icon.png "LGPL 3.0@GitHub: https://github.com/WangDaYeeeeee/GeometricWeather")](https://github.com/WangDaYeeeeee/GeometricWeather) ![](../assets/china.png) ![](../assets/united-states.png)
