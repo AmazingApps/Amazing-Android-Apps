@@ -9,3 +9,5 @@ GlassWire - Track your data usage and reveal suspious apps. ![](../assets/free.p
 LastPass - All-in-one password manager. ![](../assets/free.png) ![](../assets/earth-globe.png)
 
 LastPass Authenticator - Two-Factor Authentication (2FA) app for LastPass. ![](../assets/free.png) ![](../assets/earth-globe.png)
+
+Google Authenticator - Generates 2-Step Verification codes on your phone. ![](../assets/free.png) ![](../assets/earth-globe.png)
