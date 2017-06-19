@@ -14,6 +14,9 @@ Mcool - An extremely brief audio player.  ![](../assets/free.png) ![](../assets/
 ### \[Efficiency\]  
 fooView - A quick, simple yet powerful floating button.  ![](../assets/free.png) ![](../assets/earth-globe.png)
 
+### \[Finance\]
+极简汇率 - brief yet powerful exchange rate. ![](../assets/free.png) ![](../assets/earth-globe.png)
+
 ### \[Practicals\]
 Geometric Weather - A weather app light, fast, neat yet powerful, following Material Design.  ![](../assets/free.png) [![](../assets/open-source-icon.png "LGPL 3.0@GitHub: https://github.com/WangDaYeeeeee/GeometricWeather")](https://github.com/WangDaYeeeeee/GeometricWeather) ![](../assets/china.png) ![](../assets/united-states.png)
 
