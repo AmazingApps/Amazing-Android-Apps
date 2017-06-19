@@ -20,5 +20,11 @@ fooView - A quick, simple yet powerful floating button.  ![](../assets/free.png)
 ### \[Practicals\]
 Geometric Weather - A weather app light, fast, neat yet powerful, following Material Design.  ![](../assets/free.png) [![](../assets/open-source-icon.png "LGPL 3.0@GitHub: https://github.com/WangDaYeeeeee/GeometricWeather")](https://github.com/WangDaYeeeeee/GeometricWeather) ![](../assets/china.png) ![](../assets/united-states.png)
 
+### \[Privacy & Security\]
+
+Shadowsocks - SOCKS 5 proxy tool. ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocks/shadowsocks-android")](https://github.com/shadowsocks/shadowsocks-android) ![](../assets/earth-globe.png)
+
+ShadowsocksR - a main fork from Shadowsocks with serveral enhancements. ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocksr/shadowsocksr-android")](https://github.com/shadowsocksr/shadowsocksr-android) ![](../assets/earth-globe.png)
+
 ### \[System\]
 去你大爷的内置浏览器 - An Xposed plugin to block apps' built-in browsers. ![](../assets/free.png) ![](../assets/china.png)
