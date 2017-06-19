@@ -14,6 +14,6 @@ LastPass Authenticator - Two-Factor Authentication (2FA) app for LastPass. ![](.
 
 Google Authenticator - Generates 2-Step Verification codes on your phone. ![](../assets/free.png) ![](../assets/earth-globe.png)
 
-Shadowsocks - SOCKS 5 proxy tool. ![](../assets/free.png) ![](../assets/earth-globe.png)
+Shadowsocks - SOCKS 5 proxy tool. ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocks/shadowsocks-android")](https://github.com/shadowsocks/shadowsocks-android) ![](../assets/earth-globe.png)
 
-ShadowsocksR - a main fork from Shadowsocks with serveral enhancements. ![](../assets/free.png) ![](../assets/earth-globe.png)
+ShadowsocksR - a main fork from Shadowsocks with serveral enhancements. ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/shadowsocksr/shadowsocksr-android")](https://github.com/shadowsocksr/shadowsocksr-android) ![](../assets/earth-globe.png)
