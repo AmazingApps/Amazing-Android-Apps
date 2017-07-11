@@ -6,9 +6,11 @@ Safe, safer, no safest
 
 Authy - Sync you 2FA info across platforms. ![](../assets/free.png) ![](../assets/united-states.png)
 
+Bitwarden - Open source password manager with free cloud sync. ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 3.0@GitHub: https://github.com/bitwarden/mobile")](https://github.com/bitwarden/mobile) ![](../assets/earth-globe.png)
+
 GlassWire - Track your data usage and reveal suspious apps. ![](../assets/free.png) ![](../assets/earth-globe.png)
 
-KeePass2Android - Unofficial Android client of KeePass. ![](../assets/free.png) ![](../assets/earth-globe.png) [![](../assets/open-source-icon.png "GPL 2.0+@CodePlex: https://keepass2android.codeplex.com/")](https://keepass2android.codeplex.com/)
+KeePass2Android - Unofficial Android client of KeePass. ![](../assets/free.png) [![](../assets/open-source-icon.png "GPL 2.0+@CodePlex: https://keepass2android.codeplex.com/")](https://keepass2android.codeplex.com/) ![](../assets/earth-globe.png)
 
 LastPass - All-in-one password manager. ![](../assets/free.png) ![](../assets/earth-globe.png)
 
