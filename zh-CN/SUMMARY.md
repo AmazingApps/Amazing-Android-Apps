@@ -13,6 +13,7 @@
 * [图片照片](images-photos.md)
 * [网络通信](internet.md)
 * [实用工具](practicals-life.md)
+* [隐私安全](privacy-security.md)
 * [社会交际](social.md)
 * [运动健康](sports-health.md)
 * [系统增强](system.md)
