@@ -12,4 +12,4 @@ Nougat Quick Settings - Discover full potential of Quick Settings. ![](../assets
 
 ZArchiver - Process archive files right on your Android. ![](../assets/free.png) ![](../assets/earth-globe.png)
 
-去你大爷的内置浏览器 - An Xposed plugin to block apps' built-in browsers.  ![](../assets/free.png) ![](../assets/china.png)
+去你大爷的内置浏览器 - An Xposed plugin to block apps' built-in browsers. ![](../assets/free.png) ![](../assets/china.png)
