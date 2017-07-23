@@ -16,7 +16,8 @@
 1. 存储空间释放类、CPU/RAM 释放类应用。
 1. root 权限获取应用。
 1. 网盘应用。
-1. 自身内容为教育文档的应用：如 Learn JavaScript
+1. 自身内容为教育文档的应用，如 Learn JavaScript
+1. **纯粹**的网页功能封装应用，如 Pinterest
 
 ### 授权协议
 
