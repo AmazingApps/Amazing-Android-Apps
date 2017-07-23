@@ -1,5 +1,7 @@
 # Amazing Android Apps
 
+### This repository is still under its alpha, please remember that if you are to make any comment
+
 ---
 
 Besides conditions listed on our [homepage](http://amazingapps.org/#two), these apps should also
