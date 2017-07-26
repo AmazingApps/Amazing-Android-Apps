@@ -13,6 +13,7 @@
 * [Images & Photos](images-photos.md)
 * [Internet](internet.md)
 * [Practicals](practicals-life.md)
+* [Privacy & Security](privacy-security.md)
 * [Social](social.md)
 * [Sports & Health](sports-health.md)
 * [System](system.md)

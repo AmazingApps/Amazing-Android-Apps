@@ -1,5 +1,7 @@
 # Amazing Android Apps
 
+### This repository is still under its alpha, please remember that if you are to make any comment
+
 ---
 
 Besides conditions listed on our [homepage](http://amazingapps.org/#two), these apps should also
@@ -17,6 +19,7 @@ These types of apps will be excluded:
 5. Apps helps you aquire root privelege.
 6. Cloud Drive.
 7. E-doc itself, e.g. Learn JavaScript
+8. Website wrapping **PURELY**, e.g. Pinterest
 
 ### LICENSE
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> Except where otherwise noted, all contents in this Org is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 International License</a>.
