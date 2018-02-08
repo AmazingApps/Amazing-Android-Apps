@@ -15,3 +15,7 @@ Shazam - Identify & discover music. ![](../assets/free.png) ![](../assets/earth-
 VLC - Open source multimedia player. ![](../assets/free.png) ![](../assets/earth-globe.png)
 
 轻听 - A brief audio player that automatically downloads matching lyrics & covers. ![](../assets/free.png) ![](../assets/earth-globe.png)
+
+ViPERFX - A powerful software which provides everyone with a better audio experience ![](../assets/free.png) ![](../assets/earth-globe.png)
+
+HiByMusic - An audio player that focuses on lossless music，which automatically downloads matching lyrics & covers ![](../assets/free.png) ![](../assets/earth-globe.png)
