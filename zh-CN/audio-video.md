@@ -15,3 +15,7 @@ Shazam - 识别音乐并发现更多类似 ![](../assets/free.png) ![](../assets
 VLC - 开源多媒体播放器 ![](../assets/free.png) ![](../assets/earth-globe.png)
 
 轻听 - 简洁的本地播放器，可自动下载匹配封面与歌词 ![](../assets/free.png) ![](../assets/earth-globe.png)
+
+ViPERFX - 强大的音乐音效工具 ![](../assets/free.png) ![](../assets/earth-globe.png)
+
+海贝音乐 - 专注于无损音乐的本地音频播放器，自动下载匹配封面与歌词 ![](../assets/free.png) ![](../assets/earth-globe.png)
