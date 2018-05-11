@@ -4,4 +4,4 @@
 
 ---
 
-CPU-Z - 一站式硬件信息检测 ![](../assets/free.png) ![](../assets/united-states.png)
+CPU-Z - 一站式硬件信息检测 ![](../assets/united-states.png)

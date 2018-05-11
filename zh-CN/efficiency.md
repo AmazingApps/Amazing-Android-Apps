@@ -4,4 +4,4 @@
 
 ---
 
-fooView - 简单快速强大的悬浮按钮，提供快捷操作 ![](../assets/free.png) ![](../assets/earth-globe.png)
+fooView - 简单快速强大的悬浮按钮，提供快捷操作 ![](../assets/earth-globe.png)

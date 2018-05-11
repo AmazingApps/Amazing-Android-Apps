@@ -4,9 +4,9 @@
 
 ---
 
-Geometric Weather - 简明轻快强大的天气应用，遵循 Material Design 设计规范 ![](../assets/free.png) [![](../assets/open-source-icon.png "LGPL 3.0@GitHub: https://github.com/WangDaYeeeeee/GeometricWeather")](https://github.com/WangDaYeeeeee/GeometricWeather) ![](../assets/china.png) ![](../assets/united-states.png)
+Geometric Weather - 简明轻快强大的天气应用，遵循 Material Design 设计规范 [![](../assets/open-source-icon.png "LGPL 3.0@GitHub: https://github.com/WangDaYeeeeee/GeometricWeather")](https://github.com/WangDaYeeeeee/GeometricWeather) ![](../assets/china.png) ![](../assets/united-states.png)
 
-闹钟日历 Plus - 将日历与闹钟关联 ![](../assets/free.png) ![](../assets/earth-globe.png)
+闹钟日历 Plus - 将日历与闹钟关联 ![](../assets/earth-globe.png)
 
 #### TO DO LIST 类应用
 

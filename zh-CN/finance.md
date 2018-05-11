@@ -4,6 +4,6 @@
 
 ---
 
-Paypal - 流行的在线交易工具 ![](../assets/free.png) ![](../assets/earth-globe.png)
+Paypal - 流行的在线交易工具 ![](../assets/earth-globe.png)
 
-极简汇率 - 简洁强大的汇率换算 ![](../assets/free.png) ![](../assets/earth-globe.png)
+极简汇率 - 简洁强大的汇率换算 ![](../assets/earth-globe.png)

@@ -4,4 +4,4 @@
 
 ---
 
-Guides - 使用摄像头的崭新导航 ![](../assets/free.png) ![](../assets/united-states.png)
+Guides - 使用摄像头的崭新导航 ![](../assets/united-states.png)
